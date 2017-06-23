@@ -1,5 +1,6 @@
 # Python-Simple-Codes
-Just a few python codes done for a job application
+
+Just a few python codes I did for a job application, with limited time (1h15')
 
 * Test 1
 Analyzing the Triangle Problem
