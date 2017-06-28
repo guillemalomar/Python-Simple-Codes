@@ -1,5 +1,11 @@
 # Python-Simple-Codes
 
+*    Title: Python Simple Codes          
+*    Author: Guillem Nicolau Alomar Sitjes      
+*    Date: May 9th, 2017                     
+*    Code version: 0.1                         
+*    Availability: Public
+
 Just a few python codes I did for a job application, with limited time (1h15')
 
 * Test 1
